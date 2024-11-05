@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "42C16EA140F6D3C34D0A07C83CA5CAC425BA4675",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "42C16EA140F6D3C34D0A07C83CA5CAC425BA4675" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AF9A8AC5-CA58-4F80-BD90-47FB9987F620",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "42C16EA140F6D3C34D0A07C83CA5CAC425BA4675" : "OneVisionTestApp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TeatApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TeatApp\/TeatApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git@github.com:LenaPigalova\/OneVisionTestApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "42C16EA140F6D3C34D0A07C83CA5CAC425BA4675"
+    }
+  ]
+}

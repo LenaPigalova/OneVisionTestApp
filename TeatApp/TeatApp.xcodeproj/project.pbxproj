@@ -1,0 +1,609 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F372214E2CD9E919008A2AA5 /* TeatAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F372214D2CD9E919008A2AA5 /* TeatAppApp.swift */; };
+		F37221502CD9E919008A2AA5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F372214F2CD9E919008A2AA5 /* ContentView.swift */; };
+		F37221522CD9E91B008A2AA5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F37221512CD9E91B008A2AA5 /* Assets.xcassets */; };
+		F37221552CD9E91B008A2AA5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F37221542CD9E91B008A2AA5 /* Preview Assets.xcassets */; };
+		F37221572CD9E91B008A2AA5 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = F37221562CD9E91B008A2AA5 /* Persistence.swift */; };
+		F372215A2CD9E91B008A2AA5 /* TeatApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F37221582CD9E91B008A2AA5 /* TeatApp.xcdatamodeld */; };
+		F37221642CD9E91C008A2AA5 /* TeatAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F37221632CD9E91C008A2AA5 /* TeatAppTests.swift */; };
+		F372216E2CD9E91C008A2AA5 /* TeatAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F372216D2CD9E91C008A2AA5 /* TeatAppUITests.swift */; };
+		F37221702CD9E91C008A2AA5 /* TeatAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F372216F2CD9E91C008A2AA5 /* TeatAppUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		F37221602CD9E91C008A2AA5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F37221422CD9E919008A2AA5 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F37221492CD9E919008A2AA5;
+			remoteInfo = TeatApp;
+		};
+		F372216A2CD9E91C008A2AA5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F37221422CD9E919008A2AA5 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F37221492CD9E919008A2AA5;
+			remoteInfo = TeatApp;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		F372214A2CD9E919008A2AA5 /* TeatApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TeatApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F372214D2CD9E919008A2AA5 /* TeatAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeatAppApp.swift; sourceTree = "<group>"; };
+		F372214F2CD9E919008A2AA5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		F37221512CD9E91B008A2AA5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F37221542CD9E91B008A2AA5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F37221562CD9E91B008A2AA5 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
+		F37221592CD9E91B008A2AA5 /* TeatApp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = TeatApp.xcdatamodel; sourceTree = "<group>"; };
+		F372215F2CD9E91C008A2AA5 /* TeatAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TeatAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F37221632CD9E91C008A2AA5 /* TeatAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeatAppTests.swift; sourceTree = "<group>"; };
+		F37221692CD9E91C008A2AA5 /* TeatAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TeatAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F372216D2CD9E91C008A2AA5 /* TeatAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeatAppUITests.swift; sourceTree = "<group>"; };
+		F372216F2CD9E91C008A2AA5 /* TeatAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeatAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F37221472CD9E919008A2AA5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F372215C2CD9E91C008A2AA5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F37221662CD9E91C008A2AA5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F37221412CD9E919008A2AA5 = {
+			isa = PBXGroup;
+			children = (
+				F372214C2CD9E919008A2AA5 /* TeatApp */,
+				F37221622CD9E91C008A2AA5 /* TeatAppTests */,
+				F372216C2CD9E91C008A2AA5 /* TeatAppUITests */,
+				F372214B2CD9E919008A2AA5 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F372214B2CD9E919008A2AA5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F372214A2CD9E919008A2AA5 /* TeatApp.app */,
+				F372215F2CD9E91C008A2AA5 /* TeatAppTests.xctest */,
+				F37221692CD9E91C008A2AA5 /* TeatAppUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F372214C2CD9E919008A2AA5 /* TeatApp */ = {
+			isa = PBXGroup;
+			children = (
+				F372214D2CD9E919008A2AA5 /* TeatAppApp.swift */,
+				F372214F2CD9E919008A2AA5 /* ContentView.swift */,
+				F37221512CD9E91B008A2AA5 /* Assets.xcassets */,
+				F37221562CD9E91B008A2AA5 /* Persistence.swift */,
+				F37221582CD9E91B008A2AA5 /* TeatApp.xcdatamodeld */,
+				F37221532CD9E91B008A2AA5 /* Preview Content */,
+			);
+			path = TeatApp;
+			sourceTree = "<group>";
+		};
+		F37221532CD9E91B008A2AA5 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				F37221542CD9E91B008A2AA5 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		F37221622CD9E91C008A2AA5 /* TeatAppTests */ = {
+			isa = PBXGroup;
+			children = (
+				F37221632CD9E91C008A2AA5 /* TeatAppTests.swift */,
+			);
+			path = TeatAppTests;
+			sourceTree = "<group>";
+		};
+		F372216C2CD9E91C008A2AA5 /* TeatAppUITests */ = {
+			isa = PBXGroup;
+			children = (
+				F372216D2CD9E91C008A2AA5 /* TeatAppUITests.swift */,
+				F372216F2CD9E91C008A2AA5 /* TeatAppUITestsLaunchTests.swift */,
+			);
+			path = TeatAppUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F37221492CD9E919008A2AA5 /* TeatApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F37221732CD9E91C008A2AA5 /* Build configuration list for PBXNativeTarget "TeatApp" */;
+			buildPhases = (
+				F37221462CD9E919008A2AA5 /* Sources */,
+				F37221472CD9E919008A2AA5 /* Frameworks */,
+				F37221482CD9E919008A2AA5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TeatApp;
+			productName = TeatApp;
+			productReference = F372214A2CD9E919008A2AA5 /* TeatApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+		F372215E2CD9E91C008A2AA5 /* TeatAppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F37221762CD9E91C008A2AA5 /* Build configuration list for PBXNativeTarget "TeatAppTests" */;
+			buildPhases = (
+				F372215B2CD9E91C008A2AA5 /* Sources */,
+				F372215C2CD9E91C008A2AA5 /* Frameworks */,
+				F372215D2CD9E91C008A2AA5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F37221612CD9E91C008A2AA5 /* PBXTargetDependency */,
+			);
+			name = TeatAppTests;
+			productName = TeatAppTests;
+			productReference = F372215F2CD9E91C008A2AA5 /* TeatAppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		F37221682CD9E91C008A2AA5 /* TeatAppUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F37221792CD9E91C008A2AA5 /* Build configuration list for PBXNativeTarget "TeatAppUITests" */;
+			buildPhases = (
+				F37221652CD9E91C008A2AA5 /* Sources */,
+				F37221662CD9E91C008A2AA5 /* Frameworks */,
+				F37221672CD9E91C008A2AA5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F372216B2CD9E91C008A2AA5 /* PBXTargetDependency */,
+			);
+			name = TeatAppUITests;
+			productName = TeatAppUITests;
+			productReference = F37221692CD9E91C008A2AA5 /* TeatAppUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F37221422CD9E919008A2AA5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1420;
+				LastUpgradeCheck = 1420;
+				TargetAttributes = {
+					F37221492CD9E919008A2AA5 = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					F372215E2CD9E91C008A2AA5 = {
+						CreatedOnToolsVersion = 14.2;
+						TestTargetID = F37221492CD9E919008A2AA5;
+					};
+					F37221682CD9E91C008A2AA5 = {
+						CreatedOnToolsVersion = 14.2;
+						TestTargetID = F37221492CD9E919008A2AA5;
+					};
+				};
+			};
+			buildConfigurationList = F37221452CD9E919008A2AA5 /* Build configuration list for PBXProject "TeatApp" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F37221412CD9E919008A2AA5;
+			productRefGroup = F372214B2CD9E919008A2AA5 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F37221492CD9E919008A2AA5 /* TeatApp */,
+				F372215E2CD9E91C008A2AA5 /* TeatAppTests */,
+				F37221682CD9E91C008A2AA5 /* TeatAppUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F37221482CD9E919008A2AA5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F37221552CD9E91B008A2AA5 /* Preview Assets.xcassets in Resources */,
+				F37221522CD9E91B008A2AA5 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F372215D2CD9E91C008A2AA5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F37221672CD9E91C008A2AA5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F37221462CD9E919008A2AA5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F37221572CD9E91B008A2AA5 /* Persistence.swift in Sources */,
+				F37221502CD9E919008A2AA5 /* ContentView.swift in Sources */,
+				F372214E2CD9E919008A2AA5 /* TeatAppApp.swift in Sources */,
+				F372215A2CD9E91B008A2AA5 /* TeatApp.xcdatamodeld in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F372215B2CD9E91C008A2AA5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F37221642CD9E91C008A2AA5 /* TeatAppTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F37221652CD9E91C008A2AA5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F37221702CD9E91C008A2AA5 /* TeatAppUITestsLaunchTests.swift in Sources */,
+				F372216E2CD9E91C008A2AA5 /* TeatAppUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F37221612CD9E91C008A2AA5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F37221492CD9E919008A2AA5 /* TeatApp */;
+			targetProxy = F37221602CD9E91C008A2AA5 /* PBXContainerItemProxy */;
+		};
+		F372216B2CD9E91C008A2AA5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F37221492CD9E919008A2AA5 /* TeatApp */;
+			targetProxy = F372216A2CD9E91C008A2AA5 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		F37221712CD9E91C008A2AA5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		F37221722CD9E91C008A2AA5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F37221742CD9E91C008A2AA5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"TeatApp/Preview Content\"";
+				DEVELOPMENT_TEAM = 86W6956M73;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.EPPT.TeatApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F37221752CD9E91C008A2AA5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"TeatApp/Preview Content\"";
+				DEVELOPMENT_TEAM = 86W6956M73;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.EPPT.TeatApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		F37221772CD9E91C008A2AA5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 86W6956M73;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.EPPT.TeatAppTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TeatApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TeatApp";
+			};
+			name = Debug;
+		};
+		F37221782CD9E91C008A2AA5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 86W6956M73;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.EPPT.TeatAppTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TeatApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TeatApp";
+			};
+			name = Release;
+		};
+		F372217A2CD9E91C008A2AA5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 86W6956M73;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.EPPT.TeatAppUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = TeatApp;
+			};
+			name = Debug;
+		};
+		F372217B2CD9E91C008A2AA5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 86W6956M73;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.EPPT.TeatAppUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = TeatApp;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F37221452CD9E919008A2AA5 /* Build configuration list for PBXProject "TeatApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F37221712CD9E91C008A2AA5 /* Debug */,
+				F37221722CD9E91C008A2AA5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F37221732CD9E91C008A2AA5 /* Build configuration list for PBXNativeTarget "TeatApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F37221742CD9E91C008A2AA5 /* Debug */,
+				F37221752CD9E91C008A2AA5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F37221762CD9E91C008A2AA5 /* Build configuration list for PBXNativeTarget "TeatAppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F37221772CD9E91C008A2AA5 /* Debug */,
+				F37221782CD9E91C008A2AA5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F37221792CD9E91C008A2AA5 /* Build configuration list for PBXNativeTarget "TeatAppUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F372217A2CD9E91C008A2AA5 /* Debug */,
+				F372217B2CD9E91C008A2AA5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		F37221582CD9E91B008A2AA5 /* TeatApp.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				F37221592CD9E91B008A2AA5 /* TeatApp.xcdatamodel */,
+			);
+			currentVersion = F37221592CD9E91B008A2AA5 /* TeatApp.xcdatamodel */;
+			path = TeatApp.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = F37221422CD9E919008A2AA5 /* Project object */;
+}

@@ -1,0 +1,58 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "518bc640759658905b4772e33097d6341816bd4880ac56ccf6a04bc7e4282e15"
+    }
+  ],
+  "containerPath" : "/Users/elena/Documents/программы/OneVisionTestApp/TeatApp/TeatApp.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/elena/Documents/программы/OneVisionTestApp/TeatApp/DerivedData/TeatApp/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/elena/Documents/программы/OneVisionTestApp/TeatApp/DerivedData/TeatApp/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/elena/Documents/программы/OneVisionTestApp/TeatApp/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/elena/Documents/программы/OneVisionTestApp/TeatApp/DerivedData/TeatApp/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/elena/Documents/программы/OneVisionTestApp/TeatApp/DerivedData/TeatApp/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/elena/Documents/программы/OneVisionTestApp/TeatApp/DerivedData/TeatApp/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/elena/Documents/программы/OneVisionTestApp/TeatApp/DerivedData/TeatApp/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

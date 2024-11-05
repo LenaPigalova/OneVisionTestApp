@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "abb0eda32904ce23db0847a23e1bdb84412f74e21449ccf1841bbe9b21dabcfa"
+build_start_time: [1730785699, 636444091]
+build_end_time: [1730785699, 683938980]
+inputs:
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TeatApp/DerivedData/TeatApp/Build/Intermediates.noindex/Previews/TeatApp/Intermediates.noindex/TeatApp.build/Debug-iphonesimulator/TeatApp.build/DerivedSources/CoreDataGenerated/TeatApp/Item+CoreDataClass.swift"
+  : !private [1730785699, 512988090]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TeatApp/DerivedData/TeatApp/Build/Intermediates.noindex/Previews/TeatApp/Intermediates.noindex/TeatApp.build/Debug-iphonesimulator/TeatApp.build/DerivedSources/CoreDataGenerated/TeatApp/Item+CoreDataProperties.swift"
+  : !private [1730785699, 514042377]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TeatApp/DerivedData/TeatApp/Build/Intermediates.noindex/Previews/TeatApp/Intermediates.noindex/TeatApp.build/Debug-iphonesimulator/TeatApp.build/DerivedSources/CoreDataGenerated/TeatApp/TeatApp+CoreDataModel.swift"
+  : !private [1730785699, 510270833]
+  "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TeatApp/TeatApp/ContentView.swift": !private [1730785689, 764774084]
+  "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TeatApp/TeatApp/Persistence.swift": !private [1730785691, 662217140]
+  "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TeatApp/TeatApp/TeatAppApp.swift": !private [1730785689, 751428842]
