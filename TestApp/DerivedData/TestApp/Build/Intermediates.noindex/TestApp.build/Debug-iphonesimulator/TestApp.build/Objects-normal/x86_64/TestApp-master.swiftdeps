@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
 options: "a4be6f5bde2152e4794f050c8c21b21d3874acc5c7f842dfbd9631a876bcde3b"
-build_start_time: [1731053260, 382454872]
-build_end_time: [1731053262, 364969015]
+build_start_time: [1731055036, 769493103]
+build_end_time: [1731055039, 696466922]
 inputs:
   ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources/CoreDataGenerated/TestApp/Item+CoreDataClass.swift"
   : [1730822230, 42174339]
@@ -10,7 +10,7 @@ inputs:
   ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources/CoreDataGenerated/TestApp/TestApp+CoreDataModel.swift"
   : [1730822230, 37565231]
   "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/TestApp/ItemListView/ItemListView.swift": [1731053221, 742505550]
-  "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/TestApp/ItemListView/ItemListViewModel.swift": [1731053221, 690002918]
+  "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/TestApp/ItemListView/ItemListViewModel.swift": [1731055035, 418714284]
   "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/TestApp/Model/NetworkItem.swift": [1730818986, 750580310]
   "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/TestApp/Services/CoreData/CoreDataManager.swift": [1731053221, 677938938]
   "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/TestApp/Services/CoreData/Persistence.swift": [1731053221, 720153570]

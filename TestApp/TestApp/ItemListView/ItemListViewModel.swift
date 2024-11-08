@@ -26,6 +26,7 @@ class ItemListViewModel {
             case .success(let networkItem):
                 CoreDataManager.shared.addItem(item: networkItem)
             case .failure(let error):
+                CoreDataManager.shared.addItem(item: item)
                 print(error)
             }
         }
