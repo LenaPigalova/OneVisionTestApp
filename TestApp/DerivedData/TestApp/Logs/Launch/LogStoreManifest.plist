@@ -51,6 +51,51 @@
 			<key>uniqueIdentifier</key>
 			<string>C1DB0840-DC91-4A28-A00E-B127E43E23C5</string>
 		</dict>
+		<key>FB0CE789-04A2-4BD5-B12E-B8CE5F86DA94</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>2A137CF2-F647-41CD-94D3-CFAC94E8D402</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-TestApp-2024.11.08_13-37-15-+0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TestApp</string>
+			<key>timeStartedRecording</key>
+			<real>752747835.57693005</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run TestApp</string>
+			<key>uniqueIdentifier</key>
+			<string>FB0CE789-04A2-4BD5-B12E-B8CE5F86DA94</string>
+		</dict>
 	</dict>
 </dict>
 </plist>
