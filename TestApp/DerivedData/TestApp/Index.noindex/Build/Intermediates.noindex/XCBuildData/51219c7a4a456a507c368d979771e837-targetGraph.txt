@@ -1,0 +1,11 @@
+Target dependency graph (6 targets)
+Alamofire in Alamofire, no dependencies
+Alamofire in Alamofire, depends on:
+Alamofire in Alamofire (explicit)
+TestApp in TestApp, depends on:
+Alamofire in Alamofire (explicit)
+Alamofire in Alamofire, no dependencies
+Alamofire in Alamofire, depends on:
+Alamofire in Alamofire (explicit)
+TestApp in TestApp, depends on:
+Alamofire in Alamofire (explicit)

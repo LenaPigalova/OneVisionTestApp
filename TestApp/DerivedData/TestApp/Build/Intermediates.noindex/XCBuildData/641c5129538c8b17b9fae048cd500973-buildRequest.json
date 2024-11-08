@@ -1,0 +1,64 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "1170a21ef5a5811839e0d7693930de61e4348f257366d963817482c174e105b4"
+    }
+  ],
+  "containerPath" : "/Users/elena/Documents/программы/OneVisionTestApp/TestApp/TestApp.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/elena/Documents/программы/OneVisionTestApp/TestApp/DerivedData/TestApp/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/elena/Documents/программы/OneVisionTestApp/TestApp/DerivedData/TestApp/Build/Products",
+      "derivedDataPath" : "/Users/elena/Documents/программы/OneVisionTestApp/TestApp/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/elena/Documents/программы/OneVisionTestApp/TestApp/DerivedData/TestApp/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/elena/Documents/программы/OneVisionTestApp/TestApp/DerivedData/TestApp/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/elena/Documents/программы/OneVisionTestApp/TestApp/DerivedData/TestApp/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone15,2",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.2",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,2",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "8881CDDD-7388-4018-99D6-E47E7518BC10",
+          "TARGET_DEVICE_MODEL" : "iPhone15,2",
+          "TARGET_DEVICE_OS_VERSION" : "16.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

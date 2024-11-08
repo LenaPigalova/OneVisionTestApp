@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "42C16EA140F6D3C34D0A07C83CA5CAC425BA4675",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "42C16EA140F6D3C34D0A07C83CA5CAC425BA4675" : 0,
+    "67620B5EFA902936DF04070AF595B76AB0333747" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "638B024C-D729-4D89-B62E-D48118C44F64",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "42C16EA140F6D3C34D0A07C83CA5CAC425BA4675" : "OneVisionTestApp\/",
+    "67620B5EFA902936DF04070AF595B76AB0333747" : "OneVisionTestApp\/TestApp\/DerivedData\/TestApp\/SourcePackages\/checkouts\/Alamofire\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TestApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TestApp\/TestApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git@github.com:LenaPigalova\/OneVisionTestApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "42C16EA140F6D3C34D0A07C83CA5CAC425BA4675"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/elena\/Documents\/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B\/OneVisionTestApp\/TestApp\/DerivedData\/TestApp\/SourcePackages\/repositories\/Alamofire-e8f130fe",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67620B5EFA902936DF04070AF595B76AB0333747"
+    }
+  ]
+}
