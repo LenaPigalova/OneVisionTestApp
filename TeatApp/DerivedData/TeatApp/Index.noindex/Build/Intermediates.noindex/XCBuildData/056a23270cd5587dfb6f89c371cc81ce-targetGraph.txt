@@ -1,3 +1,0 @@
-Target dependency graph (2 targets)
-TeatApp in TeatApp, no dependencies
-TeatApp in TeatApp, no dependencies

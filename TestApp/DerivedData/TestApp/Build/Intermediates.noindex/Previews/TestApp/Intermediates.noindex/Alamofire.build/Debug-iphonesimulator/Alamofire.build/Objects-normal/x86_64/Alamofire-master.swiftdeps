@@ -1,0 +1,89 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "192206aaa86a0f7ac152c12ea2b9c07849fabb90ae9ef89154e78cd009c55689"
+build_start_time: [1730819199, 227313041]
+build_end_time: [1730819203, 400001049]
+inputs:
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Alamofire.swift"
+  : [1730811192, 356731891]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Core/AFError.swift"
+  : [1730811192, 357244491]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Core/DataRequest.swift"
+  : [1730811192, 357878208]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Core/DataStreamRequest.swift"
+  : [1730811192, 358209133]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Core/DownloadRequest.swift"
+  : [1730811192, 358363628]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Core/HTTPHeaders.swift"
+  : [1730811192, 358551979]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Core/HTTPMethod.swift"
+  : [1730811192, 358973503]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Core/Notifications.swift"
+  : [1730811192, 359428644]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Core/ParameterEncoder.swift"
+  : [1730811192, 359852313]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Core/ParameterEncoding.swift"
+  : [1730811192, 360043048]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Core/Protected.swift"
+  : [1730811192, 360853672]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Core/Request.swift"
+  : [1730811192, 361487865]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Core/RequestTaskMap.swift"
+  : [1730811192, 361660003]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Core/Response.swift"
+  : [1730811192, 361829042]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Core/Session.swift"
+  : [1730811192, 362380027]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Core/SessionDelegate.swift"
+  : [1730811192, 363113880]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Core/URLConvertible+URLRequestConvertible.swift"
+  : [1730811192, 363500356]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Core/UploadRequest.swift"
+  : [1730811192, 364115715]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Core/WebSocketRequest.swift"
+  : [1730811192, 364718198]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Extensions/DispatchQueue+Alamofire.swift"
+  : [1730811192, 365077733]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Extensions/OperationQueue+Alamofire.swift"
+  : [1730811192, 365442752]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Extensions/Result+Alamofire.swift"
+  : [1730811192, 365610122]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Extensions/StringEncoding+Alamofire.swift"
+  : [1730811192, 366148471]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Extensions/URLRequest+Alamofire.swift"
+  : [1730811192, 366493225]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Extensions/URLSessionConfiguration+Alamofire.swift"
+  : [1730811192, 367013931]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Features/AlamofireExtended.swift"
+  : [1730811192, 367259502]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Features/AuthenticationInterceptor.swift"
+  : [1730811192, 367466926]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Features/CachedResponseHandler.swift"
+  : [1730811192, 368003606]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Features/Combine.swift"
+  : [1730811192, 368398666]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Features/Concurrency.swift"
+  : [1730811192, 368763685]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Features/EventMonitor.swift"
+  : [1730811192, 369424343]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Features/MultipartFormData.swift"
+  : [1730811192, 370053291]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Features/MultipartUpload.swift"
+  : [1730811192, 370223999]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Features/NetworkReachabilityManager.swift"
+  : [1730811192, 370395898]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Features/RedirectHandler.swift"
+  : [1730811192, 370506763]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Features/RequestCompression.swift"
+  : [1730811192, 370649814]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Features/RequestInterceptor.swift"
+  : [1730811192, 371058464]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Features/ResponseSerialization.swift"
+  : [1730811192, 371253490]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Features/RetryPolicy.swift"
+  : [1730811192, 371483802]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Features/ServerTrustEvaluation.swift"
+  : [1730811192, 371731042]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Features/URLEncodedFormEncoder.swift"
+  : [1730811192, 371995449]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/SourcePackages/checkouts/Alamofire/Source/Features/Validation.swift"
+  : [1730811192, 372606754]

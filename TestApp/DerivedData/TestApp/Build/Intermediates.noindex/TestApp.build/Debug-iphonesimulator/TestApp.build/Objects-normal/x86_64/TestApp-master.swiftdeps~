@@ -1,0 +1,18 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "a4be6f5bde2152e4794f050c8c21b21d3874acc5c7f842dfbd9631a876bcde3b"
+build_start_time: [1730818995, 72362899]
+build_end_time: [1730818995, 110671043]
+inputs:
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources/CoreDataGenerated/TestApp/Item+CoreDataClass.swift"
+  : !private [1730818994, 991401910]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources/CoreDataGenerated/TestApp/Item+CoreDataProperties.swift"
+  : !private [1730818994, 992809534]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources/CoreDataGenerated/TestApp/TestApp+CoreDataModel.swift"
+  : !private [1730818994, 988651752]
+  "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/TestApp/ContentView.swift": !private [1730803917, 190354824]
+  "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/TestApp/NetworkItem.swift": !private [1730818986, 750580310]
+  "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/TestApp/Persistence.swift": !private [1730803919, 126349449]
+  "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/TestApp/Services/Network/ApiClient.swift": !private [1730818986, 770283222]
+  "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/TestApp/Services/Network/ApiRouter.swift": !private [1730818986, 832839012]
+  "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/TestApp/Services/Network/NetworkHelper.swift": !private [1730818986, 796222209]
+  "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/TestApp/TestAppApp.swift": !private [1730803917, 183702468]

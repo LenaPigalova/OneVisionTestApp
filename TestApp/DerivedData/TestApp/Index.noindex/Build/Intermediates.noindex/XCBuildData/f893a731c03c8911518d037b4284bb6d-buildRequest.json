@@ -1,0 +1,64 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "1170a21ef5a5811839e0d7693930de61e4348f257366d963817482c174e105b4"
+    },
+    {
+      "guid" : "1170a21ef5a5811839e0d7693930de61ce532b2c1f7186bc5d58a3abf107e6ba"
+    },
+    {
+      "guid" : "1170a21ef5a5811839e0d7693930de612bcaff88d48121059d9e95452fdf7979"
+    }
+  ],
+  "containerPath" : "/Users/elena/Documents/программы/OneVisionTestApp/TestApp/TestApp.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/elena/Documents/программы/OneVisionTestApp/TestApp/DerivedData/TestApp/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/elena/Documents/программы/OneVisionTestApp/TestApp/DerivedData/TestApp/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/elena/Documents/программы/OneVisionTestApp/TestApp/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/elena/Documents/программы/OneVisionTestApp/TestApp/DerivedData/TestApp/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/elena/Documents/программы/OneVisionTestApp/TestApp/DerivedData/TestApp/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/elena/Documents/программы/OneVisionTestApp/TestApp/DerivedData/TestApp/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/elena/Documents/программы/OneVisionTestApp/TestApp/DerivedData/TestApp/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "7066a5dc47e3b816a70fda21c4c65af6d1b34bf4892e36c4cb5bbe3dd399cc56"
+build_start_time: [1730803934, 169353008]
+build_end_time: [1730803935, 248044013]
+inputs:
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/Index.noindex/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources/CoreDataGenerated/TestApp/Item+CoreDataClass.swift"
+  : [1730803926, 136408329]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/Index.noindex/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources/CoreDataGenerated/TestApp/Item+CoreDataProperties.swift"
+  : [1730803926, 139738559]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/Index.noindex/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources/CoreDataGenerated/TestApp/TestApp+CoreDataModel.swift"
+  : [1730803926, 133011817]
+  "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/TestApp/ContentView.swift": [1730803917, 190354824]
+  "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/TestApp/Persistence.swift": [1730803919, 126349449]
+  "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/TestApp/TestAppApp.swift": [1730803917, 183702468]

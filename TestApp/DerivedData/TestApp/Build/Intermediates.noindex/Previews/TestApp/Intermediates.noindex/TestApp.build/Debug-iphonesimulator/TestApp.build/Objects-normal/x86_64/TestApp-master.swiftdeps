@@ -1,0 +1,18 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "c1d6a0730b15a40ad91f018bcdd1e0c128e740bdc324d21ab35db05430164d76"
+build_start_time: [1730822221, 16724109]
+build_end_time: [1730822222, 56805133]
+inputs:
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/Build/Intermediates.noindex/Previews/TestApp/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources/CoreDataGenerated/TestApp/Item+CoreDataClass.swift"
+  : [1730819201, 889562129]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/Build/Intermediates.noindex/Previews/TestApp/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources/CoreDataGenerated/TestApp/Item+CoreDataProperties.swift"
+  : [1730819201, 891262054]
+  ? "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/DerivedData/TestApp/Build/Intermediates.noindex/Previews/TestApp/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources/CoreDataGenerated/TestApp/TestApp+CoreDataModel.swift"
+  : [1730819201, 886157989]
+  "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/TestApp/ContentView.swift": [1730822220, 464468240]
+  "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/TestApp/NetworkItem.swift": [1730818986, 750580310]
+  "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/TestApp/Persistence.swift": !private [1730803919, 126349449]
+  "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/TestApp/Services/Network/ApiClient.swift": [1730818986, 770283222]
+  "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/TestApp/Services/Network/ApiRouter.swift": [1730819196, 956885099]
+  "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/TestApp/Services/Network/NetworkHelper.swift": [1730818986, 796222209]
+  "/Users/elena/Documents/\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B/OneVisionTestApp/TestApp/TestApp/TestAppApp.swift": [1730803917, 183702468]
